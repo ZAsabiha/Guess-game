@@ -1,15 +1,31 @@
-body{
-    font-family:Verdana;
+#container {
+    margin: auto;
+    border: 5px solid rgb(230, 195, 173);
+    font-size: 45 px;
+    padding: 30px;
     text-align: center;
+    height: 260px;
+    width: 600px;
+   background-color:rgb(83, 25, 35);
+
 }
-#mybutton{
-    font-size:5em;
+
+p {
+    color: rgb(238, 237, 238);
+    height: 23px;
+    font-size: 30px;
     
-    padding:10px 30px;
-    border-radius: 5px;
-    
+
 }
-#mylabel{
-    font-size:10em;
-   
+
+.button {
+    font-size: 20px
+}
+
+;
+
+.adon {
+    height: 400px;
+    width: 200px;
+    background-color: bisque;
 }
